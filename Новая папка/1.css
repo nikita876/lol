@@ -1,0 +1,13 @@
+body {
+    font: 18x/1.5 sans-serif;
+
+    color: green;
+}
+table
+td {
+    border: 1px solid #000;
+}
+td {
+    padding: 10px 10px 10px 10px;
+    padding: 10px 20px 30px 40px;
+}
